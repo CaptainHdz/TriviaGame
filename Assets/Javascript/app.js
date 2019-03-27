@@ -28,6 +28,11 @@ let quizQuestions =  [ {
 function newQuest() {
 // Resets the timer and changes the question, also marks the question that wasn't answered as wrong
 
-
-
+button.on("click", )
 }
+// Supposed to submit what you chose out of the answer choices
+button.on("click", )
+
+// This is where I wanted to add html to the question id div 
+question.text(quizQuestions.question)
+
